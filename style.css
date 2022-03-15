@@ -1,0 +1,65 @@
+.slider-image img {
+    height: 75vh;
+    object-fit: cover;
+}
+
+
+/*----------- package section ------------- */
+.icon {
+    color: #e3e2eb;
+    background-color: rgba(105, 25, 63, 0.452);
+    height: 20px;
+    width: 20px;
+    padding: 20px;
+    margin-right: .4rem;
+}
+.package-btn {
+    background-color: #FEF5FA;
+    color: #3F87F5;
+}
+
+.highlighted-card {
+    background-color: rgb(216, 50, 119);
+    border-radius: 2rem;
+    margin-top: -37px;
+    height: 30rem;
+    padding: 0px;
+    box-shadow: 0px 30px 20px 0px rgba(216, 50, 119, 0.555);
+}
+.highlighted-card li {
+    background-color: rgb(216, 50, 119);
+    
+}
+.hot-icon {
+    top: -3rem;
+    z-index: 1;
+    right: 36px;
+    /* background-color: black; */
+    background-color: rgb(14, 148, 97);
+}
+
+/* -----------Footer part --------------------- */
+.app-icon img {
+    width: 135px;
+    height: 40px;
+}
+.social-icon i {
+    transition: transform 2s;
+}
+.social-icon :hover i {
+    transform: rotate(360deg);
+}
+/* common button style ------------------------- */
+/* .fs-1 {
+    color: rgb(216, 50, 119)
+}
+.common-button {
+    background-color: rgb(216, 50, 119);
+}
+
+.common-button:hover, .card button:hover, .nav-links a:hover {
+    padding: 5px;
+    background-color: rgb(114, 13, 75);
+
+} */
+
